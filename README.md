@@ -11,20 +11,19 @@
 - 📍 Ames, IA  
 - 🎓 CS @ Iowa State University (Minor: Entrepreneurship & Applied AI)  
 - 💻 Passionate about **Full-Stack Development, Cloud, and DevOps**  
-- 🌐 Portfolio: [shivadhar.com](https://shivadhar.com)  
 
 ---
 
 ## 🔗 Quick Links
 <p align="center">
   <a href="mailto:msreddy@iastate.edu">
-    <img src="https://img.icons8.com/fluency/30/000000/gmail-new.png"/> **Email**
-  </a> &nbsp; | &nbsp;
+    <img src="https://img.icons8.com/color/28/gmail-new.png" alt="email"/> Email
+  </a> &nbsp; • &nbsp;
   <a href="https://linkedin.com/in/msreddy6">
-    <img src="https://img.icons8.com/fluency/30/000000/linkedin.png"/> **LinkedIn**
-  </a> &nbsp; | &nbsp;
+    <img src="https://img.icons8.com/color/28/linkedin.png" alt="linkedin"/> LinkedIn
+  </a> &nbsp; • &nbsp;
   <a href="https://shivadhar.com">
-    <img src="https://img.icons8.com/fluency/30/000000/domain.png"/> **Portfolio**
+    <img src="https://img.icons8.com/external-prettycons-flat-prettycons/28/000000/external-website-essentials-prettycons-flat-prettycons.png" alt="portfolio"/> Portfolio
   </a>
 </p>
 

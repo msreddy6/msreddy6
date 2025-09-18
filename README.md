@@ -1,24 +1,31 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Shivadhar+Reddy+Maddi;Software+Developer+%7C+Full-Stack+%7C+DevOps" alt="Typing SVG" />
+  <code>Shivadhar Reddy Maddi</code>
 </h1>
+<h3 align="center">🚀 Software Developer | CS @ Iowa State | Full-Stack & DevOps</h3>
 
 ---
 
 ## 👤 About Me
 - 📍 Ames, IA  
 - 🎓 CS @ Iowa State University (Minor: Entrepreneurship & Applied AI)  
-- 💻 Software Developer passionate about **Full-Stack & Cloud/DevOps**  
+- 💻 Passionate about **Full-Stack Development, Cloud, and DevOps**  
 - 🌐 Portfolio: [shivadhar.com](https://shivadhar.com)  
 
 ---
 
 ## 🔗 Quick Links
 <p align="center">
-  <a href="mailto:msreddy@iastate.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/msreddy6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://shivadhar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="mailto:msreddy@iastate.edu">
+    <img src="https://img.icons8.com/fluency/30/000000/gmail-new.png"/> **Email**
+  </a> &nbsp; | &nbsp;
+  <a href="https://linkedin.com/in/msreddy6">
+    <img src="https://img.icons8.com/fluency/30/000000/linkedin.png"/> **LinkedIn**
+  </a> &nbsp; | &nbsp;
+  <a href="https://shivadhar.com">
+    <img src="https://img.icons8.com/fluency/30/000000/domain.png"/> **Portfolio**
+  </a>
 </p>
 
 ---
